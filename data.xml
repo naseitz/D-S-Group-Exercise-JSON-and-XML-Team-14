@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<class>
+	<courseId> BUSX2001</courseId>
+	<name> Economics </name>
+	<credits> 3 </credits>
+	<enrollmentCap> 45 </enrollmentCap>
+	<startDate> 2020-08-31</startDate>
+	<students>
+		<student>
+			<studentname>Harvey Kim</studentname>
+			<dob> 1996-12-12 </dob>
+			<grade></grade>
+			<studentId> 1001</studentId>
+			<enrollmentId> 3003 </enrollmentId>
+		</student>
+		<student>
+			<studentname>Emilia Harris</studentname>
+			<studentId> 1002</studentId>
+			<enrollmentId> 3004</enrollmentId>
+			<dob> 1999-05-06 </dob>
+			<grade></grade>
+		</student>
+		<student>
+			<studentname> "Brian McCallister </studentname>
+			<grade></grade>
+			<studentId>1003</studentId>
+			<enrollmentId>3009</enrollmentId>
+			<dob> 1997-04-16 </dob>
+		</student>
+	</students>
+	<courseId>BUSX2002</courseId>
+	<name> Applied Statistics</name>
+	<credits>2</credits>
+	<enrollmentCap>20</enrollmentCap>
+	<startDate>2020-08-31</startDate>
+	<students>
+		<student>
+			<studentname>Emilia Harris</studentname>
+			<dob>1999-05-06</dob>
+			<studentId>1002</studentId>
+			<enrollmentId> 3005</enrollmentId>
+			<grade></grade>
+		</student>
+		<student>
+			<studentname>Brian McCallister</studentname>
+			<dob>1997-04-16</dob>
+			<studentId> 1003</studentId>
+			<enrollmentId> 3008</enrollmentId>
+			<grade></grade>
+		</student>
+	</students>
+	<courseId>BUSX2003</courseId>
+	<name>Spreadsheet Modeling</name>
+	<credits>2</credits>
+	<enrollmentCap>55</enrollmentCap>
+	<startDate>2020-08-31</startDate>
+	<students>
+		<student>
+			<studentname>Harvey Kim</studentname>
+			<dob>1996-12-12</dob>
+			<grade>""</grade>
+			<studentId>1001</studentId>
+			<enrollmentId>3001</enrollmentId>
+		</student>
+		<student>
+			<studentname>Emilia Harris</studentname>
+			<dob> 1999-05-06</dob>
+			<grade>""</grade>
+			<studentId>1002</studentId>
+			<enrollmentId> 3006</enrollmentId>
+		</student>
+	</students>
+	<courseId> BUSX2004</courseId>
+	<name> Pricing Management</name>
+	<credits> 2</credits>
+	<enrollmentCap> 50</enrollmentCap>
+	<startDate> 2020-01-12</startDate>
+	<students>
+		<student>
+			<studentname> Harvey Kim</studentname>
+			<dob> 1996-12-12</dob>
+			<grade> A</grade>
+			<studentId> 1001</studentId>
+			<enrollmentId> 3002</enrollmentId>
+		</student>
+		<student>
+			<studentname>Emilia Harris</studentname>
+			<dob> 1999-05-06</dob>
+			<grade> B-</grade>
+			<enrollmentId> 3007</enrollmentId>
+			<studentId> 1002</studentId>
+		</student>
+	</students>
+</class>
+
+
